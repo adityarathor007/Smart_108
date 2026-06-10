@@ -1,0 +1,3 @@
+bg_color: 0xFF121A1F
+secondary_color: 0xFF404258
+icon_color:0xFFFF6500
